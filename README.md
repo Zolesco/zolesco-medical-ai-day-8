@@ -17,7 +17,7 @@ Today we focused on **SQL and clinical datasets**:
 
 ## **Dataset**
 
-We created a CSV file (`patients_day8.csv`) with **30 realistic patient records**. Each row includes:
+We created a CSV file (`patients_day8.csv`) with ** realistic patient records**. Each row includes:
 
 | Column | Description |
 |--------|-------------|
